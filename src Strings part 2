@@ -1,0 +1,26 @@
+Python 3.4.3 (v3.4.3:9b73f1c3e601, Feb 24 2015, 22:43:06) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> user = "Theo LovesBacon"
+>>> user[0]
+'T'
+>>> user[5]
+'L'
+>>> user[-1]
+'n'
+>>> user[-3]
+'c'
+>>> user[2:7]
+'eo Lo'
+>>> user[:7]
+'Theo Lo'
+>>> user[2:]
+'eo LovesBacon'
+>>> user[:]
+'Theo LovesBacon'
+>>> print ('deadend')
+deadend
+>>> len('countme')
+7
+>>> len(user)
+15
+>>> 
