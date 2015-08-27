@@ -1,0 +1,33 @@
+Python 3.4.3 (v3.4.3:9b73f1c3e601, , 22:43:06) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 3+4
+7
+>>> 3 * 20
+60
+>>> 12/4
+3.0
+>>> 8 + 2 * 10
+28
+>>> (8+2) * 10
+100
+>>> 18 /4
+4.5
+>>> 18//4
+4
+>>> 18&4
+0
+>>> 18%4
+2
+>>> 5 * 5 * %
+SyntaxError: invalid syntax
+>>> 5 * 5 * 5
+125
+>>> 5 ** 3
+125
+>>> cat = 5
+>>> 20 + cat
+25
+>>> apples = 18
+>>> apples / cat
+3.6
+>>> 
