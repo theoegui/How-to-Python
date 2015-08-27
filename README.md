@@ -1,5 +1,5 @@
 # How-to-Python
-Understanding the fundementals of Python,GUI, GPL, STORM , ubuntu
+Understanding the fundementals of Python,GUI, GPL, STORM , ubuntu, Python on Linux
 ![python 1](https://cloud.githubusercontent.com/assets/13667918/9531947/98d7e932-4cbd-11e5-9356-71178190256a.jpg)
 ![python 2](https://cloud.githubusercontent.com/assets/13667918/9531948/98e2cb40-4cbd-11e5-9737-1994cf0cc749.jpg)
 ![python 3](https://cloud.githubusercontent.com/assets/13667918/9531949/98ebfa6c-4cbd-11e5-8b71-140778afca3b.jpg)
