@@ -1,0 +1,3 @@
+tuna="fish"
+if tuna=="bass":
+    print 'this is a fish alright'
