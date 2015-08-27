@@ -1,0 +1,24 @@
+Python 3.4.3 (v3.4.3:9b73f1c3e601, Feb 24 2015, 22:43:06) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 'This is a string!'
+'This is a string!'
+>>> ' Theo is awesume!'
+' Theo is awesume!'
+>>> "I dont think pigs can fly"
+'I dont think pigs can fly'
+>>> ' She said, "Of course pigs can fly!" '
+' She said, "Of course pigs can fly!" '
+>>> 'I don\'t think pigs can fly'
+"I don't think pigs can fly"
+>>> print("Okay now I beleive pigs can fly")
+Okay now I beleive pigs can fly
+>>> print(r'C:\Theo\Desktop\baconPics')
+C:\Theo\Desktop\baconPics
+>>> firstName = "Theo  "
+>>> firstName + "  is batman"
+'Theo    is batman'
+>>> firstName + "Wayne"
+'Theo  Wayne'
+>>> firstName * 5
+'Theo  Theo  Theo  Theo  Theo  '
+>>> 
