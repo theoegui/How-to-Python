@@ -1,0 +1,32 @@
+Python 3.4.3 (v3.4.3:9b73f1c3e601, Feb 24 2015, 22:43:06) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+>>> 5***4
+SyntaxError: invalid syntax
+>>> 55**4
+9150625
+>>> pow(5,4)
+625
+>>> abs(-18)
+18
+>>> abs(5)
+5
+>>> math.floor(18.7)
+Traceback (most recent call last):
+  File "<pyshell#5>", line 1, in <module>
+    math.floor(18.7)
+NameError: name 'math' is not defined
+>>> import math
+>>> math.floor(18.7)
+18
+>>> math.sqrt(81)
+9.0
+>>> theo = math.sqrt
+>>> theo(9)
+3.0
+>>> testing=math.floor
+>>> theo=(19.8)
+>>> theo=math.floor
+>>> theo(19.8)
+19
+>>> 
